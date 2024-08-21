@@ -8,4 +8,5 @@ export default defineConfig({
     host: true, // Listen on all available IP addresses
     port: 3000, // Change port if needed
   },
+  base: 'Quiz',
 })

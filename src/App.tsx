@@ -1,7 +1,8 @@
-import './App.css';
+import Quiz from "./pages/quiz/Quiz.tsx";
+
 
 function App() {
-    return (<h1>QUIZ</h1>);
+    return (<Quiz />);
 }
 
 export default App;
